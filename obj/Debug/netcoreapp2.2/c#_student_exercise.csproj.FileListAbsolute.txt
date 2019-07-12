@@ -1,0 +1,11 @@
+/Users/jakepreston/workspace/c#_student_exercise/obj/Debug/netcoreapp2.2/c#_student_exercise.csprojAssemblyReference.cache
+/Users/jakepreston/workspace/c#_student_exercise/obj/Debug/netcoreapp2.2/c#_student_exercise.csproj.CoreCompileInputs.cache
+/Users/jakepreston/workspace/c#_student_exercise/obj/Debug/netcoreapp2.2/c#_student_exercise.AssemblyInfoInputs.cache
+/Users/jakepreston/workspace/c#_student_exercise/obj/Debug/netcoreapp2.2/c#_student_exercise.AssemblyInfo.cs
+/Users/jakepreston/workspace/c#_student_exercise/bin/Debug/netcoreapp2.2/c#_student_exercise.deps.json
+/Users/jakepreston/workspace/c#_student_exercise/bin/Debug/netcoreapp2.2/c#_student_exercise.runtimeconfig.json
+/Users/jakepreston/workspace/c#_student_exercise/bin/Debug/netcoreapp2.2/c#_student_exercise.runtimeconfig.dev.json
+/Users/jakepreston/workspace/c#_student_exercise/bin/Debug/netcoreapp2.2/c#_student_exercise.dll
+/Users/jakepreston/workspace/c#_student_exercise/bin/Debug/netcoreapp2.2/c#_student_exercise.pdb
+/Users/jakepreston/workspace/c#_student_exercise/obj/Debug/netcoreapp2.2/c#_student_exercise.dll
+/Users/jakepreston/workspace/c#_student_exercise/obj/Debug/netcoreapp2.2/c#_student_exercise.pdb
